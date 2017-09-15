@@ -1,0 +1,14 @@
+item {
+  id: 1
+  name: 'capacitor'
+}
+
+item {
+  id: 2
+  name: 'nbridge'
+}
+
+item {
+  id: 3
+  name: 'ram'
+}
